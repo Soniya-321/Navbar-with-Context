@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.separator {
+  font-size: 3px;
+  background-color: #333333;
+  width: 100%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+}
+.container h1 {
+  color: #000;
+}
+.container-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+  background-color: #000;
+}
+.container-1 h1 {
+  color: #fff;
+}
+.img {
+  height: 150px;
+  width: 150px;
+}
